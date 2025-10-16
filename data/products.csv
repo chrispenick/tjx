@@ -1,0 +1,31 @@
+product_id,product_sku,product_name,category,subcategory,brand,cost,retail_price,seasonal_flag,launch_date
+2001,SKU-TSH-001,Classic Cotton Tee,Apparel,Tops,StyleForward,12.50,39.99,FALSE,2021-03-01
+2002,SKU-JNS-001,Slim Fit Jeans,Apparel,Bottoms,Urban Denim,28.00,89.99,FALSE,2020-09-15
+2003,SKU-DRS-001,Summer Floral Dress,Apparel,Dresses,Bloom,35.00,119.99,TRUE,2023-04-01
+2004,SKU-SHO-001,Running Sneakers,Footwear,Athletic,SpeedRun,45.00,149.99,FALSE,2022-01-10
+2005,SKU-BAG-001,Leather Crossbody Bag,Accessories,Bags,LuxCarry,55.00,189.99,FALSE,2021-11-20
+2006,SKU-JKT-001,Winter Puffer Jacket,Apparel,Outerwear,Arctic,75.00,249.99,TRUE,2023-10-01
+2007,SKU-SUN-001,Aviator Sunglasses,Accessories,Eyewear,SunStyle,22.00,79.99,TRUE,2023-05-15
+2008,SKU-WTC-001,Smart Fitness Watch,Electronics,Wearables,TechFit,85.00,299.99,FALSE,2023-08-01
+2009,SKU-SCF-001,Cashmere Scarf,Accessories,Scarves,Cozy,38.00,129.99,TRUE,2023-09-01
+2010,SKU-BLT-001,Genuine Leather Belt,Accessories,Belts,ClassicCraft,18.00,59.99,FALSE,2022-06-01
+2011,SKU-TSH-002,V-Neck Premium Tee,Apparel,Tops,StyleForward,14.00,44.99,FALSE,2021-05-15
+2012,SKU-JNS-002,Relaxed Fit Jeans,Apparel,Bottoms,Urban Denim,26.00,84.99,FALSE,2020-10-20
+2013,SKU-DRS-002,Evening Cocktail Dress,Apparel,Dresses,Elegance,48.00,159.99,FALSE,2023-02-10
+2014,SKU-SHO-002,Casual Canvas Shoes,Footwear,Casual,ComfortWalk,32.00,99.99,FALSE,2022-03-05
+2015,SKU-BAG-002,Canvas Tote Bag,Accessories,Bags,EcoCarry,15.00,49.99,FALSE,2021-12-10
+2016,SKU-JKT-002,Denim Jacket,Apparel,Outerwear,Urban Denim,42.00,139.99,FALSE,2023-03-20
+2017,SKU-SUN-002,Round Frame Sunglasses,Accessories,Eyewear,RetroView,20.00,69.99,TRUE,2023-06-01
+2018,SKU-WTC-002,Classic Analog Watch,Accessories,Watches,TimeCraft,65.00,229.99,FALSE,2023-07-15
+2019,SKU-SCF-002,Silk Scarf,Accessories,Scarves,LuxWear,30.00,99.99,FALSE,2023-08-20
+2020,SKU-BLT-002,Fabric Belt,Accessories,Belts,CasualFit,10.00,34.99,FALSE,2022-07-10
+2021,SKU-TSH-003,Graphic Print Tee,Apparel,Tops,UrbanArt,13.50,42.99,FALSE,2021-07-20
+2022,SKU-JNS-003,Skinny Jeans,Apparel,Bottoms,TrendFit,29.00,94.99,FALSE,2020-11-05
+2023,SKU-DRS-003,Maxi Summer Dress,Apparel,Dresses,BeachLife,40.00,134.99,TRUE,2023-05-20
+2024,SKU-SHO-003,High-Top Basketball Shoes,Footwear,Athletic,CourtKing,52.00,169.99,FALSE,2022-02-15
+2025,SKU-BAG-003,Backpack Leather,Accessories,Bags,StudyLux,48.00,164.99,FALSE,2021-09-01
+2026,SKU-JKT-003,Raincoat Waterproof,Apparel,Outerwear,WeatherShield,38.00,129.99,FALSE,2023-04-10
+2027,SKU-SUN-003,Sport Sunglasses,Accessories,Eyewear,ActiveShade,25.00,89.99,TRUE,2023-05-25
+2028,SKU-WTC-003,Digital Sport Watch,Electronics,Wearables,SportTime,45.00,159.99,FALSE,2023-09-10
+2029,SKU-SCF-003,Wool Winter Scarf,Accessories,Scarves,WarmWrap,28.00,94.99,TRUE,2023-10-15
+2030,SKU-BLT-003,Chain Belt,Accessories,Belts,MetalCraft,22.00,74.99,FALSE,2022-08-20

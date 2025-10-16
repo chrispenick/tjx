@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Cable Knit Sweater - Cream",
+    "price": 39.99,
+    "url": "https://example.com/sweater",
+    "image": null
+  },
+  {
+    "name": "Classic Wool Coat - Black",
+    "price": 99.99,
+    "url": "https://example.com/coat",
+    "image": null
+  },
+  {
+    "name": "Mid-Rise Straight Jeans",
+    "price": 29.99,
+    "url": "https://example.com/jeans",
+    "image": null
+  },
+  {
+    "name": "Leather Chelsea Boots",
+    "price": 59.99,
+    "url": "https://example.com/boots",
+    "image": null
+  },
+  {
+    "name": "Canvas Tote - Beige",
+    "price": 19.99,
+    "url": "https://example.com/tote",
+    "image": null
+  }
+]

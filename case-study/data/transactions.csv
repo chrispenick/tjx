@@ -1,0 +1,46 @@
+transaction_id,customer_id,order_date,channel,store_id,payment_method,card_bank,subtotal,discount_amount,tax_amount,shipping_amount,total_amount,promo_code_used,device_type,fulfillment_method,return_flag
+4001,1001,1/5/24 10:30,Online,,Credit Card,Chase,189.97,20,15.2,0,185.17,SPRING24,Mobile,Ship,FALSE
+4002,1001,1/12/24 14:45,Store,3002,Credit Cards,Citi,299.96,0,24,0,323.96,,,In-Store,FALSE
+4003,1003,1/8/24 11:20,Online,,PayPal,,149.99,15,11.2,5.99,151.18,WELCOME10,Desktop,Ship,FALSE
+4004,1003,1/15/24 16:00,Mobile App,,Apple Pay,,69.99,0,5.6,0,75.59,,Mobile,BOPIS,FALSE
+4005,1002,1/7/24 13:30,Store,3001,credit card,,79.99,0,6.4,0,86.39,,,In-Store,FALSE
+4006,1006,1/9/24 10:15,Store,3002,Cash,,59.99,0,4.8,0,64.79,,,In-Store,FALSE
+4007,1009,1/10/24 18:30,Online,,Credit Card,,119.98,12,8.6,5.99,122.57,VIP20,Mobile,Ship,FALSE
+4008,1004,1/11/24 12:00,Online,,Credit Card,,34.99,0,2.8,5.99,43.78,,Desktop,Ship,TRUE
+4009,1008,1/13/24 15:45,Store,3005,Debit Card,,89.99,0,7.2,0,97.19,,,In-Store,FALSE
+4010,1005,1/6/24 9:30,Online,,Credit Card,,94.97,10,6.8,5.99,97.76,TIKTOK20,Mobile,Ship,FALSE
+4011,1010,1/8/24 17:20,Mobile App,,Credit Card,,29.99,0,2.4,5.99,38.38,,Mobile,Ship,FALSE
+4012,1001,1/18/24 11:00,Online,,Credit Card,,249.95,25,18,0,242.95,VIP20,Desktop,Ship,FALSE
+4013,1007,1/9/24 14:30,Store,3004,Credit Card,Chase,419.94,40,30.4,0,410.34,VIP20,,In-Store,FALSE
+4014,1002,1/20/24 10:45,Online,,PayPal,,69.99,0,5.6,5.99,81.58,,Mobile,Ship,FALSE
+4015,1003,1/22/24 16:15,Store,3003,Credit Card,,179.97,0,14.4,0,194.37,,,In-Store,FALSE
+4016,1011,1/10/24 13:30,Online,,Credit Card,,229.97,30,16,0,215.97,NEWYEAR20,Desktop,Ship,FALSE
+4017,1012,1/10/24 11:20,Mobile App,,Credit Card,,169.99,0,13.6,5.99,189.58,,Mobile,Ship,FALSE
+4018,1013,1/11/24 15:10,Store,3002,Debit Card,,94.98,0,7.6,0,102.58,,,In-Store,FALSE
+4019,1014,1/11/24 12:45,Online,,Credit Card,,199.99,30,13.6,0,183.59,VIP15,Desktop,Ship,FALSE
+4020,1015,1/12/24 10:30,Mobile App,,Apple Pay,,49.99,0,4,5.99,59.98,,Mobile,Ship,FALSE
+4021,1016,1/12/24 16:15,Online,,Credit Card,,349.99,87.5,21,0,283.49,LOYAL25,Desktop,BOPIS,FALSE
+4022,1017,1/13/24 11:00,Store,3004,Credit Card,,139.98,0,11.2,0,151.18,,,In-Store,FALSE
+4023,1018,1/13/24 17:45,Online,,PayPal,,89.99,0,7.2,5.99,103.18,,Mobile,Ship,TRUE
+4024,1019,1/14/24 14:20,Mobile App,,Google Pay,,259.97,77.99,14.4,,196.38,FLASH30,Mobile,Ship,FALSE
+4025,1020,1/14/24 9:15,Store,3003,Cash,,34.99,0,2.8,,37.79,,,In-Store,FALSE
+4026,1021,1/15/24 10:45,Online,,Credit Card,,69.99,0,5.6,,81.58,,Desktop,Ship,FALSE
+4027,1022,1/15/24 15:30,Store,3006,Credit Cards,,179.97,27,12.4,0,165.37,STORE15,,In-Store,FALSE
+4028,1023,1/16/24 12:00,Mobile App,,Credit Card,,299.98,60,19.2,0,259.18,APP20,Mobile,BOPIS,FALSE
+4029,1024,1/16/24 18:10,Online,,Apple Pay,,119.99,0,9.6,5.99,135.58,,Mobile,Ship,FALSE
+4030,1025,1/17/24 9:30,Online,,Credit Card,,154.98,15.5,11.2,0,150.68,EMAIL10,Desktop,Ship,FALSE
+4031,1026,1/17/24 14:45,Store,3009,Debit Card,,74.99,0,6,0,80.99,,,In-Store,FALSE
+4032,1027,1/18/24 11:20,Online,,Credit Card,,329.96,65.99,21,0,284.97,VIP20,Desktop,Ship,FALSE
+4033,1028,1/18/24 16:00,Mobile App,,Google Pay,,39.99,0,3.2,5.99,49.18,,Mobile,Ship,FALSE
+4034,1029,1/19/24 10:15,Store,3010,Credit Card,,189.98,0,15.2,0,205.18,,,In-Store,FALSE
+4035,1030,1/19/24 13:30,Store,3003,Cash,,59.99,0,4.8,0,64.79,,,In-Store,TRUE
+4036,1002,1/20/24 9:45,Online,,Credit Card,,249.97,62.49,15,0,202.48,WEEKEND25,Desktop,Ship,FALSE
+4037,1007,1/20/24 15:20,Mobile App,,PayPal,,169.99,25.5,11.6,0,156.09,APP15,Mobile,BOPIS,FALSE
+4038,1003,1/21/24 11:00,Online,,Credit Card,,99.99,0,8,5.99,113.98,,Mobile,Ship,FALSE
+4039,1001,1/21/24 17:30,Store,3001,CC,,149.97,0,12,0,161.97,,,In-Store,FALSE
+4040,1009,1/22/24 12:15,Online,,Credit Card,Chase,419.95,146.98,22,0,294.97,FLASH35,Desktop,Ship,FALSE
+4041,1014,1/22/24 10:30,Store,3013,Debit Card,,129.98,0,10.4,0,140.38,,,In-Store,FALSE
+4042,1018,1/23/24 14:00,Mobile App,,Apple Pay,,79.99,0,6.4,5.99,92.38,,Mobile,Ship,FALSE
+4043,1023,1/23/24 16:45,Online,,Credit Card,,389.97,116.99,22,0,294.98,LOYAL30,Desktop,BOPIS,FALSE
+4044,1027,1/24/24 11:30,Online,,Credit Card,,279.96,55.99,18,0,241.97,VIP20,Desktop,Ship,FALSE
+4045,1011,1/24/24 13:15,Store,3014,Credit Card,,199.98,0,16,0,215.98,,,In-Store,FALSE

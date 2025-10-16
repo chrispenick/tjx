@@ -1,0 +1,31 @@
+campaign_id,campaign_name,campaign_type,channel,start_date,end_date,budget,target_audience,campaign_goal,status
+101,Spring Fashion Week,Promotional,Instagram,2024-01-01,2024-01-14,25000,18-35 Female,Brand Awareness,Completed
+102,New Year Sale,Sales,Google,2024-01-01,2024-01-07,15000,All Segments,Revenue,Completed
+103,VIP Member Drive,Retention,Email,2024-01-01,2024-01-31,1000,Existing Customers,Engagement,Active
+104,Fitness Resolution,Promotional,Facebook,2024-01-01,2024-01-21,8000,25-45 Active,Acquisition,Active
+105,TikTok Influencer,Influencer,TikTok,2024-01-15,2024-01-30,35000,18-25 All,Brand Awareness,Planned
+106,Valentine Special,Sales,Instagram,2024-02-01,2024-02-14,20000,All Segments,Revenue,Planned
+107,Search Retargeting,Performance,Google,2024-01-01,2024-03-31,30000,Cart Abandoners,Conversion,Active
+108,Store Grand Opening,Event,Direct Mail,2024-01-20,2024-01-20,5000,Local Residents,Traffic,Planned
+109,Clearance Email,Sales,Email,2024-01-25,2024-01-31,500,Dormant Customers,Reactivation,Planned
+110,Mobile App Launch,Product Launch,Push Notification,2024-02-01,2024-02-28,12000,App Users,Engagement,Planned
+111,Summer Preview,Promotional,Instagram,2024-01-08,2024-01-20,22000,18-35 Female,Brand Awareness,Active
+112,Flash Sale Friday,Sales,Google,2024-01-05,2024-01-05,8000,All Segments,Revenue,Completed
+113,Loyalty Points Bonus,Retention,Email,2024-01-10,2024-01-24,800,High-Value Customers,Engagement,Active
+114,Athleisure Campaign,Promotional,Facebook,2024-01-12,2024-01-26,10000,25-45 Active,Acquisition,Active
+115,Gen Z Creators,Influencer,TikTok,2024-01-18,2024-02-01,40000,16-24 All,Brand Awareness,Active
+116,Presidents Day Sale,Sales,Instagram,2024-02-10,2024-02-19,18000,All Segments,Revenue,Planned
+117,Shopping Cart Recovery,Performance,Google,2024-01-03,2024-03-31,25000,Cart Abandoners,Conversion,Active
+118,Store Anniversary,Event,Direct Mail,2024-01-25,2024-01-27,4500,Local Residents,Traffic,Planned
+119,Win-Back Campaign,Sales,Email,2024-01-28,2024-02-05,600,Dormant Customers,Reactivation,Planned
+120,App Exclusive Deals,Product Launch,Push Notification,2024-02-05,2024-02-29,10000,App Users,Engagement,Planned
+121,Spring Trends,Promotional,Instagram,2024-01-15,2024-01-28,24000,18-35 Female,Brand Awareness,Active
+122,Weekend Warriors,Sales,Google,2024-01-06,2024-01-07,9000,All Segments,Revenue,Completed
+123,Premium Member Perks,Retention,Email,2024-01-12,2024-02-12,1200,Frequent Shoppers,Engagement,Active
+124,Workout Wednesdays,Promotional,Facebook,2024-01-17,2024-02-14,7500,25-45 Active,Acquisition,Active
+125,Viral Challenge,Influencer,TikTok,2024-01-22,2024-02-05,38000,18-25 All,Brand Awareness,Active
+126,Love Your Look,Sales,Instagram,2024-02-08,2024-02-16,16000,All Segments,Revenue,Planned
+127,Dynamic Remarketing,Performance,Google,2024-01-05,2024-03-31,28000,Site Visitors,Conversion,Active
+128,Community Event,Event,Direct Mail,2024-01-30,2024-01-30,3500,Local Residents,Traffic,Planned
+129,Last Chance Email,Sales,Email,2024-01-31,2024-02-02,400,Inactive Users,Reactivation,Planned
+130,Push Power Hour,Product Launch,Push Notification,2024-02-08,2024-02-28,8000,App Users,Engagement,Planned

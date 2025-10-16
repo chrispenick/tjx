@@ -1,0 +1,16 @@
+store_id,store_name,store_type,city,state,square_footage,manager_name,opened_date,zone
+3001,Austin Downtown,Flagship,Austin,TX,25000,Jennifer Martinez,2019-03-15,Central
+3002,Dallas Galleria,Standard,Dallas,TX,15000,Michael Thompson,2020-07-22,North
+3003,Houston Heights,Outlet,Houston,TX,18000,Sarah Chen,2021-01-10,South
+3004,San Antonio Plaza,Standard,San Antonio,TX,12000,Robert Garcia,2021-09-05,South
+3005,Fort Worth Center,Pop-up,Fort Worth,TX,5000,Lisa Anderson,2023-06-01,North
+3006,Austin North,Standard,Austin,TX,14000,David Wilson,2020-02-20,Central
+3007,Dallas Park Cities,Flagship,Dallas,TX,22000,Amanda Brown,2019-08-10,North
+3008,Houston Galleria,Flagship,Houston,TX,28000,Christopher Lee,2018-11-15,South
+3009,El Paso Mall,Standard,El Paso,TX,11000,Jessica Taylor,2022-04-05,West
+3010,Plano Shops,Standard,Plano,TX,13000,Matthew Davis,2021-06-18,North
+3011,Austin South,Outlet,Austin,TX,16000,Ashley Miller,2021-10-22,Central
+3012,Dallas West End,Pop-up,Dallas,TX,4500,Daniel Johnson,2023-07-15,North
+3013,Houston Midtown,Standard,Houston,TX,15500,Michelle White,2020-09-08,South
+3014,San Antonio North,Outlet,San Antonio,TX,17000,Joseph Martin,2021-03-12,South
+3015,Arlington Commons,Standard,Arlington,TX,12500,Elizabeth Harris,2022-01-25,North

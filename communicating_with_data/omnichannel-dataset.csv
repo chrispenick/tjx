@@ -1,0 +1,101 @@
+﻿customer_id,first_touch_channel,last_touch_channel,journey_type,total_touchpoints,days_to_purchase,product_category,order_value,used_mobile_app,used_website,used_store,used_social,used_email,used_call_center,bopis_order,ship_from_store,loyalty_member,customer_age,lifetime_value,purchase_completed,cart_abandonment_stage,device_switches,research_time_hours,in_store_visit_count,email_opens,social_interactions,customer_satisfaction_score,return_flag,cross_sell_flag,season
+C001,Website,Store,ROPO,7,3,Electronics,899.99,Yes,Yes,Yes,No,Yes,No,No,No,Yes,34,2340.5,Yes,None,3,5.2,1,4,0,8,No,Yes,Q4
+C002,Email,Website,Digital Only,4,1,Apparel,127.5,No,Yes,No,No,Yes,No,No,No,Yes,28,890,Yes,None,1,1.5,0,3,0,9,No,No,Q4
+C003,Store,Store,Store Only,2,0,Home,340,No,No,Yes,No,No,No,No,No,No,45,340,Yes,None,0,0.5,1,0,0,7,No,No,Q4
+C004,Social,Mobile App,Digital Only,8,5,Beauty,89.99,Yes,Yes,No,Yes,Yes,No,No,No,Yes,22,567.8,Yes,None,2,3.8,0,5,12,9,No,Yes,Q4
+C005,Website,Website,Digital Only,3,2,Electronics,1299,No,Yes,No,No,No,Yes,No,No,No,51,1299,No,Payment,1,8,0,0,0,0,No,No,Q4
+C006,Mobile App,Store,Omnichannel,12,7,Apparel,234.99,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,36,4560,Yes,None,4,6.5,2,7,8,10,No,Yes,Q1
+C007,Store,Mobile App,Showrooming,5,1,Sports,156,Yes,No,Yes,No,No,No,No,Yes,Yes,29,2100.5,Yes,None,2,2,1,0,0,8,No,No,Q1
+C008,Email,Email,Email Only,3,4,Home,567,No,No,No,No,Yes,No,No,No,Yes,60,8900,Yes,None,0,1,0,8,0,9,Yes,No,Q1
+C009,Website,Store,ROPO,6,2,Beauty,78.5,Yes,Yes,Yes,No,No,No,Yes,No,No,25,78.5,Yes,None,2,4.3,1,0,0,6,No,No,Q1
+C010,Social,Website,Social Commerce,9,6,Electronics,450,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,33,3400,No,Browse,3,7.5,0,4,15,0,No,No,Q1
+C011,Mobile App,Mobile App,Mobile Only,4,1,Apparel,98,Yes,No,No,No,Yes,No,No,No,Yes,27,1560,Yes,None,0,2.5,0,2,0,10,No,Yes,Q2
+C012,Store,Website,Webrooming,7,3,Sports,267.89,No,Yes,Yes,Yes,No,No,No,No,No,42,267.89,Yes,None,2,3.2,2,0,3,7,No,No,Q2
+C013,Website,Store,ROPO,5,1,Home,890,No,Yes,Yes,No,Yes,No,No,Yes,Yes,38,5670,Yes,None,1,6,1,3,0,8,No,Yes,Q2
+C014,Email,Mobile App,Digital Only,6,4,Beauty,123.45,Yes,Yes,No,No,Yes,No,No,No,Yes,31,2340,Yes,None,2,2.8,0,5,0,9,No,No,Q2
+C015,Store,Store,Store Only,1,0,Electronics,2100,No,No,Yes,No,No,No,No,No,Yes,55,15600,Yes,None,0,0.3,1,0,0,10,No,Yes,Q2
+C016,Social,Store,Social to Store,10,5,Apparel,145,Yes,Yes,Yes,Yes,No,No,Yes,No,No,26,145,Yes,None,3,5.5,1,0,20,8,No,No,Q3
+C017,Mobile App,Website,Cross-Device,8,2,Sports,189.99,Yes,Yes,No,No,Yes,Yes,No,No,Yes,40,4500,No,Cart,2,4,0,4,0,0,No,No,Q3
+C018,Website,Mobile App,Cross-Device,5,3,Home,456,Yes,Yes,No,No,No,No,No,No,Yes,35,3200,Yes,None,2,3.5,0,0,0,7,Yes,No,Q3
+C019,Store,Email,Store to Digital,11,8,Beauty,234,No,Yes,Yes,No,Yes,Yes,No,No,Yes,48,6700,Yes,None,3,7.2,3,10,0,9,No,Yes,Q3
+C020,Email,Store,Email to Store,4,1,Electronics,678,No,No,Yes,No,Yes,No,Yes,No,No,29,678,Yes,None,1,1.8,1,6,0,6,No,No,Q3
+C021,Website,Website,Digital Only,2,0,Apparel,76.99,No,Yes,No,No,No,No,No,No,No,23,76.99,Yes,None,0,0.8,0,0,0,8,No,No,Q4
+C022,Mobile App,Store,App to Store,9,4,Sports,345,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,37,8900,Yes,None,3,5,2,8,5,10,No,Yes,Q4
+C023,Store,Mobile App,Showrooming,6,2,Home,567.89,Yes,No,Yes,No,No,No,No,Yes,Yes,44,4500,Yes,None,2,3.3,1,0,0,7,No,No,Q4
+C024,Social,Social,Social Only,7,5,Beauty,99,No,No,No,Yes,Yes,No,No,No,Yes,21,450,No,Browse,0,4.5,0,3,25,0,No,No,Q4
+C025,Email,Website,Email to Web,3,1,Electronics,1450,No,Yes,No,No,Yes,No,No,No,Yes,52,12000,Yes,None,1,6.8,0,4,0,9,No,Yes,Q1
+C026,Website,Store,ROPO,8,3,Apparel,187.5,Yes,Yes,Yes,No,Yes,Yes,No,No,No,30,187.5,Yes,None,2,4.7,1,5,0,5,Yes,No,Q1
+C027,Mobile App,Mobile App,Mobile Only,5,2,Sports,278,Yes,No,No,Yes,No,No,No,No,Yes,26,3400,Yes,None,0,2.2,0,0,8,10,No,No,Q1
+C028,Store,Website,Webrooming,7,4,Home,890,No,Yes,Yes,No,Yes,No,No,No,Yes,41,7800,Yes,None,2,5.5,2,6,0,8,No,Yes,Q1
+C029,Social,Mobile App,Social Commerce,12,7,Beauty,156.78,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,24,2300,No,Payment,3,8.3,0,7,30,0,No,No,Q2
+C030,Website,Website,Digital Only,4,1,Electronics,299.99,No,Yes,No,No,No,No,No,No,No,33,299.99,Yes,None,0,2,0,0,0,7,No,No,Q2
+C031,Store,Store,Store Only,2,0,Apparel,445,No,No,Yes,No,No,No,No,No,Yes,58,18900,Yes,None,0,0.5,1,0,0,9,No,Yes,Q2
+C032,Email,Mobile App,Cross-Device,6,3,Sports,123,Yes,Yes,No,No,Yes,No,No,No,Yes,32,4500,Yes,None,2,3,0,8,0,8,No,No,Q2
+C033,Mobile App,Store,App to Store,10,5,Home,678.9,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,39,6700,Yes,None,3,6.2,2,0,10,10,No,Yes,Q2
+C034,Website,Email,Web to Email,5,6,Beauty,89.99,No,Yes,No,No,Yes,Yes,No,No,No,28,89.99,No,Cart,1,4.5,0,12,0,0,No,No,Q3
+C035,Social,Store,Social to Store,8,2,Electronics,1200,Yes,No,Yes,Yes,Yes,No,No,No,Yes,46,8900,Yes,None,2,3.8,1,4,18,9,No,Yes,Q3
+C036,Store,Mobile App,Showrooming,4,1,Apparel,234.56,Yes,No,Yes,No,No,No,No,No,No,25,234.56,Yes,None,1,1.5,1,0,0,6,No,No,Q3
+C037,Email,Website,Email to Web,7,4,Sports,345.67,No,Yes,No,No,Yes,No,No,No,Yes,50,7800,Yes,None,1,5,0,9,0,8,Yes,No,Q3
+C038,Mobile App,Mobile App,Mobile Only,3,0,Home,456.78,Yes,No,No,No,No,No,No,No,Yes,31,3400,Yes,None,0,1.2,0,0,0,10,No,No,Q3
+C039,Website,Store,ROPO,11,6,Beauty,167.89,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,35,5600,Yes,None,4,7.5,3,10,6,9,No,Yes,Q4
+C040,Store,Website,Webrooming,5,2,Electronics,789,No,Yes,Yes,No,No,No,No,Yes,No,43,789,Yes,None,1,2.8,1,0,0,7,No,No,Q4
+C041,Social,Mobile App,Social Commerce,9,4,Apparel,98.76,Yes,Yes,No,Yes,Yes,No,No,No,Yes,27,2300,No,Browse,2,5.2,0,5,22,0,No,No,Q4
+C042,Email,Store,Email to Store,6,1,Sports,567,No,No,Yes,No,Yes,Yes,Yes,No,Yes,38,9800,Yes,None,1,3,1,7,0,8,No,Yes,Q1
+C043,Website,Website,Digital Only,2,0,Home,234,No,Yes,No,No,No,No,No,No,No,22,234,Yes,None,0,0.7,0,0,0,9,No,No,Q1
+C044,Mobile App,Store,App to Store,13,8,Beauty,345.6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,54,12000,Yes,None,5,9,4,15,14,10,No,Yes,Q1
+C045,Store,Mobile App,Showrooming,7,3,Electronics,899.99,Yes,No,Yes,No,Yes,No,No,No,Yes,33,4500,Yes,None,2,4.2,2,3,0,7,Yes,No,Q1
+C046,Email,Website,Email to Web,4,2,Apparel,156.78,No,Yes,No,No,Yes,No,No,No,Yes,29,3400,Yes,None,1,2.5,0,6,0,8,No,No,Q2
+C047,Social,Store,Social to Store,8,4,Sports,234.99,No,No,Yes,Yes,No,No,No,No,No,36,234.99,No,Cart,1,5.5,1,0,28,0,No,No,Q2
+C048,Website,Mobile App,Cross-Device,6,2,Home,789,Yes,Yes,No,No,Yes,No,No,No,Yes,40,6700,Yes,None,2,3.3,0,4,0,9,No,Yes,Q2
+C049,Store,Store,Store Only,3,0,Beauty,123.45,No,No,Yes,No,No,Yes,No,No,Yes,61,8900,Yes,None,0,1,2,0,0,10,No,No,Q2
+C050,Mobile App,Website,Cross-Device,10,5,Electronics,1567,Yes,Yes,No,Yes,Yes,No,No,No,Yes,28,3400,Yes,None,3,6.8,0,8,12,8,No,Yes,Q2
+C051,Email,Store,Email to Store,5,1,Apparel,267.89,No,No,Yes,No,Yes,No,Yes,No,No,34,267.89,Yes,None,1,2,1,5,0,7,No,No,Q3
+C052,Website,Website,Digital Only,3,2,Sports,345,No,Yes,No,No,No,No,No,No,Yes,26,2300,Yes,None,0,1.5,0,0,0,9,No,No,Q3
+C053,Social,Mobile App,Social Commerce,11,7,Home,456.78,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,41,7800,No,Payment,3,8,0,9,35,0,No,No,Q3
+C054,Store,Website,Webrooming,6,3,Beauty,189,No,Yes,Yes,No,No,No,No,Yes,Yes,47,5600,Yes,None,2,3.5,2,0,0,8,Yes,No,Q3
+C055,Mobile App,Store,App to Store,9,4,Electronics,2340,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,52,15000,Yes,None,3,5.3,1,6,0,10,No,Yes,Q3
+C056,Website,Mobile App,Cross-Device,4,1,Apparel,123,Yes,Yes,No,No,No,No,No,No,No,24,123,Yes,None,1,1.8,0,0,0,6,No,No,Q4
+C057,Email,Website,Email to Web,7,5,Sports,567.89,No,Yes,No,No,Yes,Yes,No,No,Yes,37,8900,Yes,None,2,4.5,0,10,0,9,No,Yes,Q4
+C058,Store,Store,Store Only,2,0,Home,890,No,No,Yes,No,No,No,No,No,Yes,59,23000,Yes,None,0,0.4,1,0,0,10,No,Yes,Q4
+C059,Social,Store,Social to Store,12,6,Beauty,234.56,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,30,3400,Yes,None,3,7,2,5,40,8,No,No,Q4
+C060,Mobile App,Mobile App,Mobile Only,5,2,Electronics,678.9,Yes,No,No,No,Yes,No,No,No,Yes,32,4500,No,Browse,0,3.2,0,3,0,0,No,No,Q1
+C061,Website,Store,ROPO,8,3,Apparel,345.67,Yes,Yes,Yes,No,Yes,No,No,No,No,27,345.67,Yes,None,2,4.8,1,7,0,7,Yes,No,Q1
+C062,Store,Website,Webrooming,6,4,Sports,456,No,Yes,Yes,Yes,No,No,No,Yes,Yes,44,6700,Yes,None,2,3.6,2,0,5,9,No,Yes,Q1
+C063,Email,Mobile App,Cross-Device,9,5,Home,567,Yes,Yes,No,No,Yes,Yes,No,No,Yes,39,7800,Yes,None,3,5.5,0,11,0,8,No,No,Q1
+C064,Social,Social,Social Only,10,8,Beauty,123,No,No,No,Yes,Yes,No,No,No,No,23,123,No,Cart,0,6.5,0,4,45,0,No,No,Q1
+C065,Mobile App,Store,App to Store,7,2,Electronics,1890,Yes,Yes,Yes,No,No,No,Yes,No,Yes,49,12000,Yes,None,2,3.7,1,0,0,10,No,Yes,Q2
+C066,Website,Website,Digital Only,3,1,Apparel,234,No,Yes,No,No,No,No,No,No,Yes,31,2300,Yes,None,0,1.2,0,0,0,8,No,No,Q2
+C067,Store,Mobile App,Showrooming,5,2,Sports,345.78,Yes,No,Yes,No,Yes,No,No,No,No,35,345.78,Yes,None,1,2.5,1,2,0,6,No,No,Q2
+C068,Email,Store,Email to Store,11,6,Home,678,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,56,18900,Yes,None,2,7.2,3,14,0,9,No,Yes,Q2
+C069,Social,Website,Social Commerce,8,4,Beauty,189.99,No,Yes,No,Yes,Yes,No,No,No,Yes,25,2100,No,Payment,2,5,0,6,32,0,No,No,Q3
+C070,Mobile App,Mobile App,Mobile Only,4,1,Electronics,456.78,Yes,No,No,No,No,No,No,No,No,29,456.78,Yes,None,0,1.5,0,0,0,7,No,No,Q3
+C071,Website,Store,ROPO,12,7,Apparel,567,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,42,9800,Yes,None,4,8.5,2,12,8,10,No,Yes,Q3
+C072,Store,Website,Webrooming,6,3,Sports,234,No,Yes,Yes,No,No,No,No,Yes,Yes,38,5600,Yes,None,2,3.2,2,0,0,8,Yes,No,Q3
+C073,Email,Mobile App,Cross-Device,5,2,Home,890,Yes,Yes,No,No,Yes,No,No,No,Yes,34,6700,Yes,None,2,2.8,0,8,0,9,No,Yes,Q3
+C074,Social,Store,Social to Store,9,5,Beauty,345.67,No,No,Yes,Yes,No,No,No,No,No,26,345.67,No,Browse,1,6,1,0,38,0,No,No,Q4
+C075,Mobile App,Website,Cross-Device,7,3,Electronics,1234,Yes,Yes,No,No,Yes,No,No,No,Yes,45,8900,Yes,None,2,4.2,0,5,0,8,No,Yes,Q4
+C076,Website,Website,Digital Only,2,0,Apparel,123.45,No,Yes,No,No,No,No,No,No,No,22,123.45,Yes,None,0,0.6,0,0,0,9,No,No,Q4
+C077,Store,Store,Store Only,3,0,Sports,456.78,No,No,Yes,No,No,Yes,No,No,Yes,62,21000,Yes,None,0,0.8,2,0,0,10,No,Yes,Q4
+C078,Email,Store,Email to Store,8,4,Home,567.89,No,No,Yes,No,Yes,No,Yes,No,Yes,40,7800,Yes,None,1,4.5,1,9,0,7,No,No,Q1
+C079,Social,Mobile App,Social Commerce,13,9,Beauty,234,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,28,3400,No,Cart,3,10,0,10,50,0,No,No,Q1
+C080,Mobile App,Store,App to Store,6,2,Electronics,789,Yes,No,Yes,No,No,No,Yes,Yes,No,33,789,Yes,None,2,3,1,0,0,8,Yes,No,Q1
+C081,Website,Mobile App,Cross-Device,5,3,Apparel,345,Yes,Yes,No,No,Yes,No,No,No,Yes,30,4500,Yes,None,2,2.5,0,4,0,9,No,No,Q1
+C082,Store,Website,Webrooming,10,5,Sports,456,No,Yes,Yes,Yes,Yes,No,No,No,Yes,48,12000,Yes,None,3,6.3,3,7,10,10,No,Yes,Q2
+C083,Email,Email,Email Only,4,2,Home,678.9,No,No,No,No,Yes,No,No,No,Yes,53,15600,Yes,None,0,1.8,0,16,0,8,No,Yes,Q2
+C084,Social,Store,Social to Store,7,3,Beauty,123,Yes,No,Yes,Yes,No,No,No,No,Yes,24,1560,Yes,None,2,4,1,0,25,9,No,No,Q2
+C085,Mobile App,Mobile App,Mobile Only,3,1,Electronics,2100,Yes,No,No,No,No,No,No,No,Yes,36,8900,Yes,None,0,1,0,0,0,10,No,Yes,Q2
+C086,Website,Store,ROPO,9,4,Apparel,234.56,No,Yes,Yes,No,Yes,Yes,Yes,No,No,32,234.56,Yes,None,2,5.2,2,5,0,6,No,No,Q3
+C087,Store,Mobile App,Showrooming,5,2,Sports,567,Yes,No,Yes,No,No,No,No,Yes,Yes,41,5600,No,Payment,1,2.3,1,0,0,0,No,No,Q3
+C088,Email,Website,Email to Web,6,3,Home,789,No,Yes,No,No,Yes,No,No,No,Yes,37,4500,Yes,None,1,3.5,0,7,0,8,Yes,No,Q3
+C089,Social,Social,Social Only,11,7,Beauty,345,No,No,No,Yes,Yes,No,No,No,Yes,20,890,No,Browse,0,8,0,5,60,0,No,No,Q3
+C090,Mobile App,Store,App to Store,8,3,Electronics,456.78,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,46,9800,Yes,None,3,4.3,1,6,0,10,No,Yes,Q4
+C091,Website,Website,Digital Only,4,1,Apparel,189,No,Yes,No,No,No,Yes,No,No,No,27,189,Yes,None,0,1.3,0,0,0,7,No,No,Q4
+C092,Store,Store,Store Only,2,0,Sports,678.9,No,No,Yes,No,No,No,No,No,Yes,57,19800,Yes,None,0,0.3,1,0,0,9,No,Yes,Q4
+C093,Email,Mobile App,Cross-Device,7,4,Home,890,Yes,Yes,No,No,Yes,No,No,No,Yes,35,6700,Yes,None,2,4,0,10,0,8,No,Yes,Q4
+C094,Social,Store,Social to Store,14,8,Beauty,234,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,31,3400,Yes,None,4,9.5,3,8,48,10,No,No,Q1
+C095,Mobile App,Website,Cross-Device,6,2,Electronics,1456,Yes,Yes,No,No,No,No,No,No,Yes,43,7800,No,Cart,2,3.2,0,0,0,0,No,Yes,Q1
+C096,Website,Store,ROPO,5,1,Apparel,345.67,No,Yes,Yes,No,Yes,No,No,No,No,25,345.67,Yes,None,1,2,1,3,0,8,No,No,Q1
+C097,Store,Mobile App,Showrooming,8,4,Sports,456,Yes,No,Yes,Yes,No,No,No,No,Yes,39,5600,Yes,None,2,4.5,2,0,6,9,Yes,No,Q1
+C098,Email,Store,Email to Store,10,5,Home,567.89,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,50,12000,Yes,None,2,6,2,13,0,10,No,Yes,Q2
+C099,Social,Mobile App,Social Commerce,9,6,Beauty,189.99,Yes,Yes,No,Yes,Yes,No,No,No,Yes,29,2300,No,Browse,2,7.3,0,7,42,0,No,No,Q2
+C100,Mobile App,Mobile App,Mobile Only,4,1,Electronics,890,Yes,No,No,No,Yes,No,No,No,Yes,34,4500,Yes,None,0,1.7,0,2,0,9,No,No,Q2

@@ -1,0 +1,93 @@
+﻿customer_id,touchpoint_sequence,channel,action_type,product_category,days_since_first_touch,session_duration_minutes,device_type,location_type,marketing_source,product_views,items_in_cart,cart_value,conversion_flag,touchpoint_timestamp,page_depth,assisted_by_staff,personalization_shown,inventory_checked,price_checked,reviews_viewed,comparison_products,promo_code_applied,loyalty_points_earned,cross_sell_shown
+C001,1,Website,Browse,Electronics,0,12,Desktop,Home,Direct,3,0,0,No,12/20/24 10:30,5,No,No,No,Yes,Yes,2,No,0,No
+C001,2,Website,Add to Cart,Electronics,0,8,Desktop,Home,Direct,1,1,899.99,No,12/20/24 10:42,3,No,Yes,Yes,No,No,0,No,0,No
+C001,3,Email,Open,Electronics,1,2,Mobile,Work,Email Campaign,0,0,0,No,12/21/24 8:15,1,No,No,No,No,No,0,No,0,No
+C001,4,Mobile App,Browse,Electronics,1,15,Mobile,Commute,Email Link,4,0,0,No,12/21/24 8:30,6,No,Yes,Yes,Yes,Yes,3,No,0,Yes
+C001,5,Email,Click,Electronics,2,1,Desktop,Home,Remarketing,0,0,0,No,12/22/24 19:00,1,No,No,No,No,No,0,Yes,0,No
+C001,6,Website,Review Cart,Electronics,2,5,Desktop,Home,Email Link,1,1,899.99,No,12/22/24 19:05,2,No,Yes,No,No,No,0,Yes,0,No
+C001,7,Store,Purchase,Electronics,3,45,In-Person,Store,Online Research,1,1,899.99,Yes,12/23/24 14:30,0,Yes,No,Yes,No,No,0,Yes,50,Yes
+C002,1,Email,Open,Apparel,0,1,Mobile,Home,Newsletter,0,0,0,No,12/19/24 7:00,1,No,No,No,No,No,0,No,0,No
+C002,2,Email,Click,Apparel,0,1,Mobile,Home,Newsletter,0,0,0,No,12/19/24 7:01,1,No,No,No,No,No,0,No,0,No
+C002,3,Website,Browse,Apparel,0,25,Mobile,Home,Email Link,8,0,0,No,12/19/24 7:02,12,No,Yes,Yes,Yes,Yes,5,No,0,No
+C002,4,Website,Purchase,Apparel,1,10,Tablet,Home,Direct,2,1,127.5,Yes,12/20/24 20:00,4,No,Yes,No,No,No,1,Yes,10,No
+C003,1,Store,Browse,Home,0,30,In-Person,Store,Walk-in,5,0,0,No,12/18/24 13:00,0,Yes,No,Yes,No,No,0,No,0,No
+C003,2,Store,Purchase,Home,0,15,In-Person,Store,Walk-in,1,1,340,Yes,12/18/24 13:30,0,Yes,No,No,No,No,0,No,0,No
+C004,1,Social,Discover,Beauty,0,5,Mobile,Home,Instagram,0,0,0,No,12/15/24 21:00,1,No,No,No,No,No,0,No,0,No
+C004,2,Social,Click,Beauty,0,1,Mobile,Home,Instagram,0,0,0,No,12/15/24 21:05,1,No,No,No,No,No,0,No,0,No
+C004,3,Website,Browse,Beauty,0,18,Mobile,Home,Social Link,6,0,0,No,12/15/24 21:06,8,No,Yes,Yes,Yes,Yes,4,No,0,No
+C004,4,Mobile App,Browse,Beauty,1,10,Mobile,Work,Direct,3,0,0,No,12/16/24 12:00,4,No,Yes,No,No,Yes,2,No,0,No
+C004,5,Email,Open,Beauty,2,1,Desktop,Work,Abandoned Cart,0,0,0,No,12/17/24 9:00,1,No,No,No,No,No,0,No,0,No
+C004,6,Website,Add to Cart,Beauty,3,8,Desktop,Work,Email Link,2,1,89.99,No,12/18/24 10:00,3,No,Yes,Yes,No,No,1,Yes,0,No
+C004,7,Social,Engage,Beauty,4,3,Mobile,Home,Instagram,0,0,0,No,12/19/24 20:00,1,No,No,No,No,No,0,No,0,No
+C004,8,Mobile App,Purchase,Beauty,5,5,Mobile,Home,Push Notification,1,1,89.99,Yes,12/20/24 21:00,2,No,Yes,No,No,No,0,Yes,15,Yes
+C005,1,Website,Browse,Electronics,0,45,Desktop,Home,Search,12,0,0,No,12/18/24 19:00,20,No,No,Yes,Yes,Yes,8,No,0,No
+C005,2,Call Center,Inquiry,Electronics,1,15,Phone,Home,Direct,0,0,0,No,12/19/24 14:00,0,Yes,No,Yes,Yes,No,0,No,0,No
+C005,3,Website,Abandon,Electronics,2,20,Desktop,Home,Direct,5,1,1299,No,12/20/24 20:00,8,No,Yes,No,No,Yes,3,No,0,No
+C006,1,Mobile App,Browse,Apparel,0,8,Mobile,Commute,Direct,3,0,0,No,12/10/24 7:30,4,No,Yes,No,No,No,1,No,0,No
+C006,2,Website,Browse,Apparel,0,22,Desktop,Work,Direct,7,0,0,No,12/10/24 12:00,10,No,Yes,Yes,Yes,Yes,4,No,0,No
+C006,3,Store,Try On,Apparel,1,40,In-Person,Store,Online Research,4,0,0,No,12/11/24 13:00,0,Yes,No,Yes,No,No,0,No,0,No
+C006,4,Mobile App,Add to Cart,Apparel,2,12,Mobile,Home,Push Notification,2,2,234.99,No,12/12/24 20:00,3,No,Yes,No,No,No,1,No,0,Yes
+C006,5,Social,Share,Apparel,3,2,Mobile,Home,Instagram,0,0,0,No,12/13/24 18:00,1,No,No,No,No,No,0,No,0,No
+C006,6,Email,Open,Apparel,4,1,Mobile,Work,Cart Reminder,0,0,0,No,12/14/24 9:00,1,No,No,No,No,No,0,Yes,0,No
+C006,7,Website,Review,Apparel,4,15,Desktop,Work,Email Link,3,2,234.99,No,12/14/24 9:30,5,No,Yes,Yes,No,Yes,2,Yes,0,No
+C006,8,Store,Browse,Apparel,5,25,In-Person,Store,Direct,3,0,0,No,12/15/24 14:00,0,Yes,No,Yes,No,No,0,No,0,No
+C006,9,Mobile App,Browse,Apparel,5,10,Mobile,Store,In-Store Wifi,2,2,234.99,No,12/15/24 14:30,3,No,Yes,Yes,No,No,1,Yes,0,No
+C006,10,Email,Click,Apparel,6,1,Desktop,Home,Promotional,0,0,0,No,12/16/24 19:00,1,No,No,No,No,No,0,Yes,0,No
+C006,11,Website,Checkout,Apparel,6,8,Desktop,Home,Email Link,1,2,234.99,No,12/16/24 19:10,4,No,Yes,No,No,No,0,Yes,0,Yes
+C006,12,Store,Purchase,Apparel,7,20,In-Person,Store,BOPIS,0,1,234.99,Yes,12/17/24 12:00,0,Yes,No,No,No,No,0,Yes,25,Yes
+C007,1,Store,Browse,Sports,0,35,In-Person,Store,Walk-in,6,0,0,No,12/19/24 15:00,0,Yes,No,Yes,Yes,No,0,No,0,No
+C007,2,Store,Try Product,Sports,0,20,In-Person,Store,Walk-in,2,0,0,No,12/19/24 15:35,0,Yes,No,No,No,No,0,No,0,No
+C007,3,Mobile App,Browse,Sports,0,15,Mobile,Store,In-Store Wifi,4,0,0,No,12/19/24 15:55,6,No,Yes,Yes,Yes,Yes,3,No,0,No
+C007,4,Mobile App,Add to Cart,Sports,1,8,Mobile,Home,Direct,2,1,156,No,12/20/24 20:00,3,No,Yes,No,No,No,1,No,0,No
+C007,5,Mobile App,Purchase,Sports,1,5,Mobile,Home,Direct,1,1,156,Yes,12/20/24 20:08,2,No,Yes,No,No,No,0,Yes,10,No
+C008,1,Email,Open,Home,0,2,Desktop,Work,Newsletter,0,0,0,No,12/16/24 9:00,1,No,No,No,No,No,0,No,0,No
+C008,2,Email,Browse,Home,2,5,Desktop,Work,Newsletter,3,0,0,No,12/18/24 9:30,2,No,No,No,Yes,No,2,No,0,No
+C008,3,Email,Purchase,Home,4,3,Desktop,Home,Promotional,1,1,567,Yes,12/20/24 19:00,1,No,No,No,No,No,0,Yes,30,No
+C009,1,Website,Search,Beauty,0,12,Desktop,Home,Search,5,0,0,No,12/18/24 20:00,7,No,No,Yes,Yes,Yes,3,No,0,No
+C009,2,Website,Add to Cart,Beauty,0,6,Desktop,Home,Search,2,1,78.5,No,12/18/24 20:12,3,No,Yes,No,No,No,1,No,0,No
+C009,3,Mobile App,Review,Beauty,1,8,Mobile,Work,App Notification,1,1,78.5,No,12/19/24 12:00,2,No,Yes,No,No,Yes,1,No,0,No
+C009,4,Website,Update Cart,Beauty,1,5,Desktop,Work,Direct,1,1,78.5,No,12/19/24 13:00,2,No,No,No,No,No,0,Yes,0,No
+C009,5,Store,Browse,Beauty,2,15,In-Person,Store,Online Research,2,0,0,No,12/20/24 11:00,0,Yes,No,Yes,No,No,0,Yes,0,No
+C009,6,Store,Purchase,Beauty,2,10,In-Person,Store,BOPIS,0,1,78.5,Yes,12/20/24 11:15,0,Yes,No,No,No,No,0,Yes,5,No
+C010,1,Social,View Ad,Electronics,0,1,Mobile,Commute,Facebook,0,0,0,No,12/14/24 8:00,1,No,No,No,No,No,0,No,0,No
+C010,2,Social,Click,Electronics,0,1,Mobile,Commute,Facebook,0,0,0,No,12/14/24 8:01,1,No,No,No,No,No,0,No,0,No
+C010,3,Website,Browse,Electronics,0,30,Mobile,Commute,Social Link,8,0,0,No,12/14/24 8:02,15,No,Yes,Yes,Yes,Yes,6,No,0,No
+C010,4,Mobile App,Browse,Electronics,1,20,Mobile,Home,Direct,5,0,0,No,12/15/24 19:00,8,No,Yes,Yes,No,Yes,3,No,0,No
+C010,5,Email,Open,Electronics,2,1,Desktop,Work,Abandoned Browse,0,0,0,No,12/16/24 9:00,1,No,No,No,No,No,0,No,0,No
+C010,6,Website,Compare,Electronics,3,25,Desktop,Work,Email Link,6,0,0,No,12/17/24 10:00,10,No,Yes,Yes,Yes,Yes,4,No,0,No
+C010,7,Call Center,Inquiry,Electronics,4,20,Phone,Home,Direct,0,0,0,No,12/18/24 19:00,0,Yes,No,Yes,Yes,No,0,No,0,No
+C010,8,Social,Review,Electronics,5,5,Mobile,Home,Instagram,0,0,0,No,12/19/24 21:00,1,No,No,No,No,Yes,0,No,0,No
+C010,9,Website,Abandon,Electronics,6,15,Desktop,Home,Direct,3,0,0,No,12/20/24 20:00,5,No,Yes,No,No,No,2,No,0,No
+C011,1,Mobile App,Browse,Apparel,0,12,Mobile,Home,Push Notification,5,0,0,No,12/19/24 20:00,6,No,Yes,Yes,No,No,2,No,0,No
+C011,2,Email,Open,Apparel,0,1,Mobile,Home,Cart Reminder,0,0,0,No,12/19/24 21:00,1,No,No,No,No,No,0,No,0,No
+C011,3,Mobile App,Add to Cart,Apparel,1,8,Mobile,Work,Direct,2,1,98,No,12/20/24 12:00,3,No,Yes,No,No,No,1,Yes,0,No
+C011,4,Mobile App,Purchase,Apparel,1,4,Mobile,Work,Direct,1,1,98,Yes,12/20/24 12:08,2,No,Yes,No,No,No,0,Yes,8,Yes
+C012,1,Store,Browse,Sports,0,45,In-Person,Store,Walk-in,8,0,0,No,12/17/24 14:00,0,Yes,No,Yes,Yes,No,0,No,0,No
+C012,2,Store,Try Product,Sports,0,30,In-Person,Store,Walk-in,3,0,0,No,12/17/24 14:45,0,Yes,No,No,No,No,0,No,0,No
+C012,3,Social,Research,Sports,1,10,Mobile,Home,Instagram,0,0,0,No,12/18/24 20:00,1,No,No,No,No,Yes,0,No,0,No
+C012,4,Website,Browse,Sports,2,35,Desktop,Home,Direct,10,0,0,No,12/19/24 19:00,15,No,No,Yes,Yes,Yes,5,No,0,No
+C012,5,Website,Compare,Sports,2,20,Desktop,Home,Direct,5,0,0,No,12/19/24 19:35,8,No,Yes,Yes,Yes,Yes,3,No,0,No
+C012,6,Website,Add to Cart,Sports,3,10,Desktop,Home,Direct,2,1,267.89,No,12/20/24 20:00,3,No,Yes,No,No,No,1,No,0,No
+C012,7,Website,Purchase,Sports,3,5,Desktop,Home,Direct,1,1,267.89,Yes,12/20/24 20:10,2,No,Yes,No,No,No,0,No,20,No
+C013,1,Website,Search,Home,0,20,Desktop,Home,Search,7,0,0,No,12/19/24 19:00,12,No,No,Yes,Yes,Yes,4,No,0,No
+C013,2,Website,Save Items,Home,0,10,Desktop,Home,Search,3,0,0,No,12/19/24 19:20,4,No,Yes,No,No,No,2,No,0,No
+C013,3,Email,Open,Home,0,1,Mobile,Work,Wishlist Reminder,0,0,0,No,12/19/24 9:00,1,No,No,No,No,No,0,No,0,No
+C013,4,Website,Review,Home,1,15,Desktop,Work,Email Link,4,0,0,No,12/20/24 9:30,6,No,Yes,Yes,No,Yes,2,No,0,No
+C013,5,Store,Purchase,Home,1,25,In-Person,Store,Online Research,1,1,890,Yes,12/20/24 13:00,0,Yes,No,No,No,No,0,No,50,Yes
+C014,1,Email,Open,Beauty,0,1,Mobile,Home,Newsletter,0,0,0,No,12/16/24 7:00,1,No,No,No,No,No,0,No,0,No
+C014,2,Email,Click,Beauty,0,1,Mobile,Home,Newsletter,0,0,0,No,12/16/24 7:01,1,No,No,No,No,No,0,No,0,No
+C014,3,Website,Browse,Beauty,0,18,Mobile,Home,Email Link,6,0,0,No,12/16/24 7:02,9,No,Yes,Yes,Yes,Yes,3,No,0,No
+C014,4,Mobile App,Browse,Beauty,2,10,Mobile,Work,App Direct,3,0,0,No,12/18/24 12:00,4,No,Yes,No,No,Yes,2,No,0,No
+C014,5,Email,Open,Beauty,3,1,Desktop,Home,Cart Reminder,0,0,0,No,12/19/24 19:00,1,No,No,No,No,No,0,Yes,0,No
+C014,6,Mobile App,Purchase,Beauty,4,5,Mobile,Home,Push Notification,1,1,123.45,Yes,12/20/24 20:00,2,No,Yes,No,No,No,0,Yes,10,No
+C015,1,Store,Purchase,Electronics,0,60,In-Person,Store,Walk-in,3,1,2100,Yes,12/20/24 14:00,0,Yes,No,No,No,No,0,No,100,Yes
+C016,1,Social,Discover,Apparel,0,3,Mobile,Commute,Instagram,0,0,0,No,12/15/24 8:00,1,No,No,No,No,No,0,No,0,No
+C016,2,Social,Like,Apparel,0,1,Mobile,Commute,Instagram,0,0,0,No,12/15/24 8:03,1,No,No,No,No,No,0,No,0,No
+C016,3,Social,Click,Apparel,0,1,Mobile,Commute,Instagram,0,0,0,No,12/15/24 8:04,1,No,No,No,No,No,0,No,0,No
+C016,4,Website,Browse,Apparel,0,25,Mobile,Commute,Social Link,8,0,0,No,12/15/24 8:05,12,No,Yes,Yes,Yes,Yes,5,No,0,No
+C016,5,Mobile App,Save,Apparel,1,5,Mobile,Home,Direct,2,0,0,No,12/16/24 19:00,2,No,Yes,No,No,No,1,No,0,No
+C016,6,Website,Compare,Apparel,2,15,Desktop,Work,Direct,5,0,0,No,12/17/24 10:00,7,No,Yes,Yes,Yes,Yes,3,No,0,No
+C016,7,Mobile App,Add to Cart,Apparel,3,8,Mobile,Home,Push Notification,2,1,145,No,12/18/24 20:00,3,No,Yes,No,No,No,1,No,0,No
+C016,8,Social,Share,Apparel,4,2,Mobile,Home,Instagram,0,0,0,No,12/19/24 18:00,1,No,No,No,No,No,0,No,0,No
+C016,9,Website,Review Cart,Apparel,4,5,Desktop,Home,Direct,1,1,145,No,12/19/24 20:00,2,No,Yes,No,No,No,0,Yes,0,No
+C016,10,Store,Purchase,Apparel,5,20,In-Person,Store,BOPIS,0,1,145,Yes,12/20/24 11:00,0,Yes,No,No,No,No,0,Yes,10,No
